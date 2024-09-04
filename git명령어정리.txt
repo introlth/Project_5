@@ -20,3 +20,12 @@
 3. 로컬 컴퓨터 데이터를 깃허브로 전송 git push -u origin main
 4. 코드가 없는 상태에서 전체 코드를 다운로드 받을 경우 clone
 5. 코드가 있는 경우 변경된 부분만 받을 경우 git pull origin main
+----
+브랜치 생성
+1. 브랜치 생성 git branch 브랜치 이름 (*표시는 현재 브랜치 임을 나타냄)
+2. 브랜치 이동 git switch 브랜치이름
+3. 
+----
+팀으로 작업하기
+ - Collaborators 등록하기
+ - pr 발행
