@@ -11,7 +11,7 @@
 8.1 git 계정설정 git config --global(컴퓨터 전체 적용) user.email "설정할 이메일"
 9. main에서 브랜치를 빼서 작업함, main은 완성된 작업만 merge
 10. .git파일 터미널창에서 삭제 rm -rf .git
-11. git log 한줄 보기 git log -graph -oneline
+11. git log 한줄 보기 git log --graph --oneline
 ----
 로컬 컴퓨터(코드있음)와 깃헙 사이트(비어있음) 연결
 1. remote 정보 확인 git remote, git remote -v
