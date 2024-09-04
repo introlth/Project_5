@@ -18,7 +18,7 @@
 2.2 깃헙 remote 삭제 git remote rm origin
 3. 로컬 컴퓨터 데이터를 깃허브로 전송 git push -u origin main
 4. 코드가 없는 상태에서 전체 코드를 다운로드 받을 경우 clone
-5. 코드가 있는 경우 변경된 부분만 받을 경우 pull
+5. 코드가 있는 경우 변경된 부분만 받을 경우 pull git pull origin main
 
 
 
