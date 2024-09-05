@@ -20,6 +20,7 @@
 3. 로컬 컴퓨터 데이터를 깃허브로 전송 git push -u origin main
 4. 코드가 없는 상태에서 전체 코드를 다운로드 받을 경우 clone
 5. 코드가 있는 경우 변경된 부분만 받을 경우 git pull origin main
+7. 중요한정보, 필요없는 정보 빼고 올리기 .gitignore 파일 생성
 ----
 브랜치
 1. 브랜치 확인 git branch
@@ -28,7 +29,6 @@
 4. 브랜치 병합 git merge 브랜치이름 (main으로 합치려면 main에서 작업)
 5. 브랜치 삭제 git branch -b 브랜치이름
 6. 브랜치 복구 git branch 브랜치이름 커밋번호
-
 ----
 팀으로 작업하기
  - Collaborators 등록하기
